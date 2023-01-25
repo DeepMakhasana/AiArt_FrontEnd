@@ -1,0 +1,172 @@
+/* Home Component */
+.front-animation {
+  width: 15%;
+}
+
+.search-div {
+  width: 50%;
+  margin-bottom: 4rem;
+}
+
+#searchInput {
+  letter-spacing: 2px;
+  font-weight: 500;
+  padding: .5rem 1rem;
+}
+
+.searchBtn {
+  padding: .5rem 1.5rem;
+  letter-spacing: 2px;
+}
+
+/* --------------------------------- */
+
+/* upload-image-page */
+.upload-image-div {
+  width: 50%;
+}
+.showUploadImages {
+  text-decoration: none;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+/* login-page */
+.login-div, .register{
+  width: 50%;
+}
+
+
+@media screen and (max-width: 480px) {
+  .front-animation {
+    width: 40%;
+  }
+
+  .search-div {
+    width: 85%;
+    margin-bottom: 1.5rem;
+  }
+
+  #searchInput {
+    padding: .3rem .6rem;
+    font-size: .8rem;
+  }
+
+  .searchBtn {
+    padding: .3rem .6rem;
+    letter-spacing: 0;
+    font-size: .9rem;
+  }
+
+  .spinner-grow {
+    --bs-spinner-width: 1.5rem;
+    --bs-spinner-height: 1.5rem;
+  }
+
+  /* --------------------------------- */
+  .upload-image-div {
+    width: 100%;
+    padding: 0 .6rem;
+  }
+  .loading {
+    padding-top: 2rem;
+  }
+
+  .login-div, .register{
+    width: 100%;
+  }
+}
+
+
+@media (min-width: 481px) and (max-width: 576px) {
+  .front-animation {
+    width: 40%;
+  }
+
+  .search-div {
+    width: 85%;
+    margin-bottom: 5rem;
+  }
+
+  #searchInput {
+    padding: .4rem .7rem;
+    font-size: .9rem;
+  }
+
+  .searchBtn {
+    padding: .4rem .6rem;
+    letter-spacing: 2px;
+    font-size: 1rem;
+  }
+
+  .spinner-grow {
+    --bs-spinner-width: 1.5rem;
+    --bs-spinner-height: 1.5rem;
+  }
+
+  /* --------------------------------- */
+  .upload-image-div {
+    width: 100%;
+    padding: 0 .6rem;
+  }
+  .loading {
+    margin-top: 4rem;
+  }
+
+  .login-div, .register{
+    width: 100%;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+  .front-animation {
+    width: 35%;
+  }
+
+  .search-div {
+    width: 75%;
+    margin-bottom: 2.5rem;
+  }
+
+  #searchInput {
+    padding: .4rem .9rem;
+  }
+
+  .searchBtn {
+    padding: .4rem .9rem;
+    letter-spacing: 2px;
+  }
+
+  .spinner-grow {
+    --bs-spinner-width: 1.7rem;
+    --bs-spinner-height: 1.7rem;
+  }
+
+  /* --------------------------------- */
+  .upload-image-div {
+    width: 70%;
+    padding: 0 .6rem;
+  }
+  .loading {
+    margin-top: 4rem;
+  }
+  .login-div, .register{
+    width: 70%;
+  }
+}
+
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .front-animation {
+    width: 40%;
+  }
+
+  .search-div {
+    width: 65%;
+    margin-bottom: 3rem;
+  }
+
+  /* --------------------------------- */
+
+}
