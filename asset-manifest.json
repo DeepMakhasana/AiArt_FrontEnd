@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AiArt_FrontEnd/static/css/main.0d7811b0.css",
+    "main.js": "/AiArt_FrontEnd/static/js/main.0a39826f.js",
+    "static/media/Animation.gif": "/AiArt_FrontEnd/static/media/Animation.eff7247d3c5d133d78c7.gif",
+    "static/media/Animation-front.png": "/AiArt_FrontEnd/static/media/Animation-front.c037d0bf2fb5ebe1091b.png",
+    "index.html": "/AiArt_FrontEnd/index.html",
+    "main.0d7811b0.css.map": "/AiArt_FrontEnd/static/css/main.0d7811b0.css.map",
+    "main.0a39826f.js.map": "/AiArt_FrontEnd/static/js/main.0a39826f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7811b0.css",
+    "static/js/main.0a39826f.js"
+  ]
+}
