@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ai Art [Live link of App](https://aiart-427b9.web.app/).
 
 ## Available Scripts
 
